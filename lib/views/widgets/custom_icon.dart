@@ -16,6 +16,7 @@ class CustomIcon extends StatelessWidget {
       child:  Center(
         child: Icon(
           icon,
+          
           size: 28,
         ),
       ),
